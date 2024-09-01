@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Sort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
